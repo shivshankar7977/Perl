@@ -1,5 +1,5 @@
-Intro to PERL:
-``````````````
+** Intro to PERL:
+`````````````````
 => Its very powerful & adaptable language. Developed by Larry Wall for NASA in 1987.
 => PERL is "Practical Extraction and Report Language"
 => Perl is case-sensitive
